@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "103371153069",
+    "project_id": "di-cho-nhanh-c2659",
+    "storage_bucket": "di-cho-nhanh-c2659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103371153069:android:3f38d07c9e108fa724f024",
+        "android_client_info": {
+          "package_name": "com.example.di_cho_nhanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103371153069-1q4q2aefnddo6boge4k2jgggbed0rs3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGQq4zd4f8TB8lhcmzhYeB8whJy_zkrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103371153069-1q4q2aefnddo6boge4k2jgggbed0rs3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103371153069-m7qok7tgq2fal1t439sjroarf8g4pdrp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.diChoNhanh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
